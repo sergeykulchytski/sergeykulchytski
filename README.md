@@ -62,7 +62,7 @@
 ![Drush](https://img.shields.io/badge/Drush-4E9A06?style=for-the-badge)
 
 
-### 🎨 Design Tools
+### 🖌 Design Tools
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Avocode](https://img.shields.io/badge/Avocode-FF3366?style=for-the-badge&logo=avocode&logoColor=white)
