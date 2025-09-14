@@ -4,6 +4,7 @@
 
 [![Codewars](https://www.codewars.com/users/Serg8/badges/large)](https://www.codewars.com/users/Serg8)
 
+
 ### 🛠 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,12 +12,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+
 ### 🎨 Frameworks & Libraries
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🛠 Build & Tooling
+
+### ⚙️ Build & Tooling
 
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
@@ -37,11 +40,13 @@
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=terminal&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
+
 ### 🐳 Container & Local Development
 
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Lando](https://img.shields.io/badge/Lando-FF4F00?style=for-the-badge&logo=lando&logoColor=white)
 ![docker4drupal](https://img.shields.io/badge/docker4drupal-007ACC?style=for-the-badge&logo=drupal&logoColor=white)
+
 
 ### 🏗 Drupal Experience
 
@@ -55,6 +60,12 @@
 ![Custom JS Behaviors](https://img.shields.io/badge/Custom_JS_Behaviors-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Composer](https://img.shields.io/badge/Composer-FF6600?style=for-the-badge&logo=composer&logoColor=white)
 ![Drush](https://img.shields.io/badge/Drush-4E9A06?style=for-the-badge)
+
+
+### 🎨 Design Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Avocode](https://img.shields.io/badge/Avocode-FF3366?style=for-the-badge&logo=avocode&logoColor=white)
 
 
 
