@@ -2,6 +2,8 @@
 
 ## I am Sergey and I work as a frontend developer for Drupal-based projects.
 
+[![Codewars](https://www.codewars.com/users/Serg8/badges/large)](https://www.codewars.com/users/Serg8)
+
 <!--
 **sergeykulchytski/sergeykulchytski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
