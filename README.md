@@ -68,6 +68,11 @@
 ![Avocode](https://img.shields.io/badge/Avocode-FF3366?style=for-the-badge&logo=avocode&logoColor=white)
 
 
+### 🐧 Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 
 <!--
 **sergeykulchytski/sergeykulchytski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
