@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# I am Sergey and I work as a frontend developer for Drupal-based projects.
+
 <!--
 **sergeykulchytski/sergeykulchytski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
