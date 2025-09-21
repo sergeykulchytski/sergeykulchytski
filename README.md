@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Frontend developer specializing in Drupal-based projects. I'm Sergey.
+## Frontend developer specializing in Drupal-based projects.
 
 [![Codewars](https://www.codewars.com/users/Serg8/badges/large)](https://www.codewars.com/users/Serg8)
 
